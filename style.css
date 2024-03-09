@@ -87,14 +87,11 @@ body{
   text-align: right;
   margin-right: 15px;
   margin-top: 20px;
-  color: transparent;
+  color: white;
   font-family: "Anta", sans-serif;
   font-weight: 900;
   font-style: normal;
-  box-shadow:  rgba(21, 40, 244, 0.24);
-  background-image: url(Screenshot_٢٠٢٤٠٣٠٥_١٣٠٩١٨_Google.jpg);
-  background-clip: text;
-  text-shadow: 0px 4px 10px  rgba(228, 226, 226, 0.2);
+  
 }
 
 
